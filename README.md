@@ -88,8 +88,8 @@ Telecom-Customer-Churn-Analysis/
 │
 ├── Churn_Page_1.png                   # Dashboard screenshot – Overview
 ├── Churn_Page_2.png                   # Dashboard screenshot – Demographics
-├── Churn_Page_3.png                   # Dashboard screenshot – Services
-├── Churn_Page_4.png                   # Dashboard screenshot – Risk Analysis
+├── Churn_Page_3.png                   # Dashboard screenshot – Tenure
+├── Churn_Page_4.png                   # Dashboard screenshot – Churn Analysis
 │
 ├── LICENSE                            # MIT License
 └── README.md                          # Project documentation
