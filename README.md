@@ -131,15 +131,15 @@ Churn breakdown by gender, age group, senior citizen status, and family structur
 
 ---
 
-### Page 3 — Services & Subscriptions
-Analysis of churn rates across different service types — internet, streaming, security, and more.
+### Page 3 — Customer Tenure Analysis
+Analysis of churn rates across different tenure timezone
 
 ![Services Analysis](Churn_Page_3.png)
 
 ---
 
-### Page 4 — Risk & Revenue Analysis
-Churn segmentation by contract type, tenure buckets, payment method, and monthly charges.
+### Page 4 — Churn Analysis
+Churn segmentation by contract type and payment method.
 
 ![Risk Analysis](Churn_Page_4.png)
 
